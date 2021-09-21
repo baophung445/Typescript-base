@@ -16,3 +16,4 @@ isBlackBelt = true
 const names = 'PHUNG CHI BAO'
 const name2 = 'LE HOAI BINH'
 const name3 = 'DUC NGUYEN'
+const name4 = 'THANH VU'
