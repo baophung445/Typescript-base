@@ -1,14 +1,16 @@
 /* ================== TYPE BASICS ======== */
-console.log('abc');
-let character = 'mario';
-let age = 30;
-let isBlackBelt = false;
+console.log('abc')
+let character = 'mario'
+let age = 30
+let isBlackBelt = false
 
 // character = 20
-character = 'luigi';
+character = 'luigi'
 
 // age = 'abc'
-age = 40;
+age = 40
 
 // isBlackBelt = 'yes'
-isBlackBelt = true;
+isBlackBelt = true
+
+const name4 = 'THANH VU'
